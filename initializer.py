@@ -7,3 +7,5 @@ def init() -> None:
     pd.set_option('display.float_format', lambda x: '%.3f' % x)
     pd.options.display.max_columns = None
     np.random.seed(1)
+
+CSV_BASE_DIR = 'inflearn_pandas_part1_material/my_data/'
