@@ -1,0 +1,11 @@
+# OSX
+.DS_Store
+
+# Integrated Development Environment
+.vscode/
+
+# Python
+__pycache__/
+
+# iPython NoteBook
+.ipynb_checkpoints/
