@@ -8,4 +8,4 @@ def init() -> None:
     pd.options.display.max_columns = None
     np.random.seed(1)
 
-CSV_BASE_DIR = 'inflearn_pandas_part1_material/my_data/'
+CSV_BASE_DIR = 'part1/inflearn_pandas_part1_material/my_data/'
